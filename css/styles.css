@@ -68,8 +68,8 @@ main {
 .promo {
   grid-column: 1 / -1;
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
-    url("../images/garden.jpg");
+    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("../images/nursery.jpg");
   background-size: cover;
   background-position: center;
   color: white;
